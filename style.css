@@ -1,0 +1,50 @@
+.sec-2{
+    position: fixed;
+    left: 20%;
+    top: 4%;
+    width: 25%;
+    margin: 1%;
+    color: white;
+}
+.main-div{
+background-color: rgb(31, 41, 51);
+width: 95%;
+padding-bottom: 4%;
+}
+.sec-3{
+    position: fixed;
+    left: 40%;
+    top: 4%;
+    width: 25%;
+    margin: 1%;
+    color: white;
+}
+.sec-4{
+    position: fixed;
+    left: 60%;
+    top: 4%;
+    width: 25%;
+    margin: 1%;
+    color: white;
+}
+.div-1  {
+    color: white;
+    width: 25%;
+    padding-left: 1%;
+
+    
+}
+.sec-5{
+    text-align: center;
+background-color: #030821;
+color: white;
+padding: 7px;
+top: 40.5%;
+position: fixed;
+width:92.8%;
+right: 1;
+height: 5%;
+}
+p>b{
+    color: goldenrod;
+}
